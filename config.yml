@@ -1,0 +1,15 @@
+prefix: "!" # BotのPrefix
+token: "TOKEN" # BotのToken
+allow_user: 0 # ユーザーID(指定したユーザーのみコマンド実行可能)
+users_ban: false # 全ユーザーをBanするかどうか
+roles_del: false # 全ロールを消すかどうか
+gameplay_display: "" # ゲームプレイの表示
+channel_names: [] # 作成するチャンネル名のリスト
+contents: [] # 送るメッセージのリスト
+
+# true = 有効
+# false = 無効
+
+# リストの構文: ["a", "b", "c"]
+
+# チャンネルやメッセージは、リストからランダムに文字が選ばれます。
