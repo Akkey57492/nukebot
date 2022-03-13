@@ -21,7 +21,7 @@ Windows標準の解凍ソフトでも大丈夫です。<br>
 <hr>
 3 - config.ymlを開く<br>
 設定を行うためにconfig.ymlを開きます。<br>
-![2022-03-13_13h20_38](https://user-images.githubusercontent.com/84906515/158044935-5db13717-6582-40c8-812f-d5f33f5d064e.png)
+![2022-03-13_13h20_38](https://user-images.githubusercontent.com/84906515/158045486-83a3e7c5-e9aa-42bd-a045-e4fb0b39ecd0.png)
 <hr>
 4 - tokenを設定する<br>
 tokenを設定しましょう。<br>
@@ -29,7 +29,6 @@ config.yml内の`token: "TOKEN"`の部分を編集します。<br>
 「"」に囲まれた「TOKEN」の文字を消して、Tokenに置き換えます。<br>
 このTokenはBotのTokenでなくてはなりません。<br>
 また基本的に「"」で囲む必要があります。<br>
-![2022-03-13_13h23_41](https://user-images.githubusercontent.com/84906515/158045001-b93e5126-7f5e-4106-b910-4984a85b7190.png)
 <hr>
 5 - idを設定する<br>
 idを設定しましょう。<br>
