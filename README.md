@@ -12,7 +12,6 @@ Discordで利用できるサーバーNukeBotです。
 # 使用方法
 1 - このディレクトリをzipとしてダウンロード<br>
 画像の通りに進めると、通常通りダウンロードすることができます。<br>
-![2022-03-13_13h19_18](https://user-images.githubusercontent.com/84906515/158044900-072bf7d1-eb4f-42a8-8a7b-4fb854be29fb.png)
 <hr>
 2 - ダウンロードしたらzipを解凍<br>
 zipを解凍するだけで大丈夫です。<br>
@@ -21,7 +20,6 @@ Windows標準の解凍ソフトでも大丈夫です。<br>
 <hr>
 3 - config.ymlを開く<br>
 設定を行うためにconfig.ymlを開きます。<br>
-![2022-03-13_13h20_38](https://user-images.githubusercontent.com/84906515/158045486-83a3e7c5-e9aa-42bd-a045-e4fb0b39ecd0.png)
 <hr>
 4 - tokenを設定する<br>
 tokenを設定しましょう。<br>
